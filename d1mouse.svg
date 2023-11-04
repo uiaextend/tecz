@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="238" height="70.594" viewBox="0 0 238 70.594">
+<svg id="scroll-down.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="26" viewBox="0 0 16 26">
                      <defs>
                         <style>
-                           .cls-1 {
-                              fill: #fff;
+                           .cls-5,
+                           .cls-6 {
+                              fill: none;
+                              stroke: #131023;
+                              stroke-width: 1px;
+                           }
+
+                           .cls-6 {
                               fill-rule: evenodd;
                            }
                         </style>
                      </defs>
-                     <path id="scrolldown-shape-1.svg" class="cls-1" d="M847,980s40.865-5.656,69-43,81.412-36.188,103,0,66,43,66,43H847Z" transform="translate(-847 -909.406)"></path>
+                     <circle class="cls-5" cx="8.5" cy="7.5" r="2"></circle>
+                     <path class="cls-6" d="M963,922h5a5,5,0,0,1,5,5v15a5,5,0,0,1-5,5h-5a5,5,0,0,1-5-5V927A5,5,0,0,1,963,922Z" transform="translate(-957.5 -921.5)"></path>
                   </svg>
